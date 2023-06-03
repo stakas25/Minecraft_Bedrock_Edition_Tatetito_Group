@@ -15,3 +15,10 @@
 ・server.properties
 <br>
 ・valid_known_packs.json
+
+<br>
+<br>
+サーバーファイルは以下から取得
+<br>
+https://www.minecraft.net/en-us/download/server/bedrock
+
